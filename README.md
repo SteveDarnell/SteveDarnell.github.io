@@ -8,8 +8,8 @@
 
 | 类 别  | 调用路径                                       | 最后更新   |
 |-------|------------------------------------------------|------------|
-| 📺电视  | [https://stevedarnell.github.io/tv/{频道名称}.png](https://github.com/SteveDarnell/SteveDarnell.github.io/tree/main/tv) | 2024.3.23    |
-| 📻广播  | [https://stevedarnell.github.io/radio/{频道名称}.png](https://github.com/SteveDarnell/SteveDarnell.github.io/tree/main/radio) | 2024.3.23   |
+| 📺电视  | [https://stevedarnell.github.io/tv/{频道名称}.png](https://github.com/SteveDarnell/SteveDarnell.github.io/tree/main/tv) | 2024.4.30    |
+| 📻广播  | [https://stevedarnell.github.io/radio/{频道名称}.png](https://github.com/SteveDarnell/SteveDarnell.github.io/tree/main/radio) | 2024.4.30   |
 
 ## 🛠️工具
 - 📆**EPG接口地址**：
@@ -24,5 +24,5 @@
   - 如遇资源访问问题请通过QQ反馈。
 
 ## 📔更新
-- 2024.3.23
+- 2024.4.30
   - 新建IPTV共享源。
