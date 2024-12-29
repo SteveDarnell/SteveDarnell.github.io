@@ -113,7 +113,7 @@ http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://stevedarnell.github.io/tv/金鹰卡通.png" group-title="卡通频道",金鹰卡通
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="卡通频道",嘉佳卡通
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://stevedarnell.github.io/tv/优漫卡通.png" group-title="卡通频道",优漫卡通
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8
@@ -123,48 +123,38 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000000172/1.m3u8
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="数字频道",中国天气
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://stevedarnell.github.io/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场 4K
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://stevedarnell.github.io/tv/都市剧场.png" group-title="数字频道",都市剧场
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://stevedarnell.github.io/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://stevedarnell.github.io/tv/黑莓电影.png" group-title="数字频道",黑莓电影
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="newtv超级电影" tvg-logo="https://stevedarnell.github.io/tv/NEWTV超级电影.png" group-title="数字频道",超级电影
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000021/index.m3u8?
+#EXTINF:-1 tvg-name="newtv惊悚悬疑" tvg-logo="https://stevedarnell.github.io/tv/NEWTV惊悚悬疑.png" group-title="数字频道",惊悚悬疑
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000113/index.m3u8?
+#EXTINF:-1 tvg-name="newtv军旅剧场" tvg-logo="https://stevedarnell.github.io/tv/NEWTV军旅剧场.png" group-title="数字频道",军旅剧场
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000107/index.m3u8?
+#EXTINF:-1 tvg-name="newtv军事评论" tvg-logo="https://stevedarnell.github.io/tv/NEWTV军事评论.png" group-title="数字频道",军事评论
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000110/index.m3u8?
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://stevedarnell.github.io/tv/哒啵赛事.png" group-title="数字频道",哒啵赛事
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000001000006906/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006906&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://stevedarnell.github.io/tv/哒啵电竞.png" group-title="数字频道",哒啵电竞
 http://[2409:8087:5e01:24::8]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://stevedarnell.github.io/tv/黑莓电影.png" group-title="数字频道",黑莓电影
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://stevedarnell.github.io/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="newtv超级体育" tvg-logo="https://stevedarnell.github.io/tv/NEWTV超级体育.png" group-title="数字频道",超级体育
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000020/index.m3u8?
-#EXTINF:-1 tvg-name="newtv超级电影" tvg-logo="https://stevedarnell.github.io/tv/NEWTV超级电影.png" group-title="数字频道",超级电影
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000021/index.m3u8?
+#EXTINF:-1 tvg-name="newtv精品体育" tvg-logo="https://stevedarnell.github.io/tv/NEWTV精品体育.png" group-title="数字频道",精品体育
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000102/index.m3u8?
 #EXTINF:-1 tvg-name="newtv超级电视剧" tvg-logo="https://stevedarnell.github.io/tv/NEWTV超级电视剧.png" group-title="数字频道",超级视剧
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000022/index.m3u8?
 #EXTINF:-1 tvg-name="newtv东北热剧" tvg-logo="https://stevedarnell.github.io/tv/NEWTV东北热剧.png" group-title="数字频道",东北热剧
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000092/index.m3u8?
-#EXTINF:-1 tvg-name="newtv海外剧场" tvg-logo="https://stevedarnell.github.io/tv/NEWTV海外剧场.png" group-title="数字频道",海外剧场
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000115/index.m3u8?
-#EXTINF:-1 tvg-name="newtv中国功夫" tvg-logo="https://stevedarnell.github.io/tv/NEWTV中国功夫.png" group-title="数字频道",中国功夫
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000101/index.m3u8?
-#EXTINF:-1 tvg-name="newtv军旅剧场" tvg-logo="https://stevedarnell.github.io/tv/NEWTV军旅剧场.png" group-title="数字频道",军旅剧场
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000107/index.m3u8?
-#EXTINF:-1 tvg-name="newtv惊悚悬疑" tvg-logo="https://stevedarnell.github.io/tv/NEWTV惊悚悬疑.png" group-title="数字频道",惊悚悬疑
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000113/index.m3u8?
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://stevedarnell.github.io/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场 4K
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://stevedarnell.github.io/tv/都市剧场.png" group-title="数字频道",都市剧场
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="newtv潮妈辣婆" tvg-logo="https://stevedarnell.github.io/tv/NEWTV潮妈辣婆.png" group-title="数字频道",潮妈辣婆
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000099/index.m3u8?
-#EXTINF:-1 tvg-name="newtv精品体育" tvg-logo="https://stevedarnell.github.io/tv/NEWTV精品体育.png" group-title="数字频道",精品体育
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000102/index.m3u8?
-#EXTINF:-1 tvg-name="newtv精品纪录" tvg-logo="https://stevedarnell.github.io/tv/NEWTV精品纪录.png" group-title="数字频道",精品纪录
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000109/index.m3u8?
 #EXTINF:-1 tvg-name="newtv家庭剧场" tvg-logo="https://stevedarnell.github.io/tv/NEWTV家庭剧场.png" group-title="数字频道",家庭剧场
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000108/index.m3u8?
-#EXTINF:-1 tvg-name="newtv精品大剧" tvg-logo="https://stevedarnell.github.io/tv/NEWTV精品大剧.png" group-title="数字频道",精品大剧
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000100/index.m3u8?
-#EXTINF:-1 tvg-name="newtv军事评论" tvg-logo="https://stevedarnell.github.io/tv/NEWTV军事评论.png" group-title="数字频道",军事评论
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000110/index.m3u8?
-#EXTINF:-1 tvg-name="newtv明星大片" tvg-logo="https://stevedarnell.github.io/tv/NEWTV明星大片.png" group-title="数字频道",明星大片
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000116/index.m3u8?
 #EXTINF:-1 tvg-name="newtv欢乐剧场" tvg-logo="https://stevedarnell.github.io/tv/NEWTV欢乐剧场.png" group-title="数字频道",欢乐剧场
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000091/index.m3u8?
 #EXTINF:-1 tvg-name="newtv精品萌宠" tvg-logo="https://stevedarnell.github.io/tv/NEWTV精品萌宠.png" group-title="数字频道",精品萌宠
