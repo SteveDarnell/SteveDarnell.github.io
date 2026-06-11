@@ -7278,9 +7278,6 @@
 	<programme channel="东方卫视" start="20260611085900 +0800" stop="20260611090100 +0800">
 		<title lang="zh">天气预报</title>
 	</programme>
-	<programme channel="东方卫视" start="20260611090100 +0800" stop="20260611092500 +0800">
-		<title lang="zh">“白玉兰飘香”上海电视节国际优秀节目展播——动画片《中国奇谭第二季》（2）</title>
-	</programme>
 	<programme channel="东方卫视" start="20260611092500 +0800" stop="20260611094600 +0800">
 		<title lang="zh">电视连续剧：《主角》（7）下</title>
 	</programme>
@@ -18099,6 +18096,15 @@
 	<programme channel="咪咕综合体育" start="20260611181500 +0800" stop="20260611195500 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第37轮 曼联-诺丁汉森林</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260611195500 +0800" stop="20260611200000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260611201000 +0800" stop="20260611205500 +0800">
+		<title lang="zh">英超精华-25/26赛季英超第36轮</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260611210000 +0800" stop="20260611224000 +0800">
+		<title lang="zh">足球世界-2025中国足协杯决赛 北京国安-河南俱乐部酒祖杜康</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18167,6 +18173,27 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260611184000 +0800" stop="20260611184500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260611184500 +0800" stop="20260611190500 +0800">
+		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260611191500 +0800" stop="20260611192000 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260611193000 +0800" stop="20260611203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260611203000 +0800" stop="20260611203500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260611203500 +0800" stop="20260611221000 +0800">
+		<title lang="zh">2026中国男篮系列热身赛 第二场 中国男篮-KK FMP俱乐部</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260611221000 +0800" stop="20260611222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260611222000 +0800" stop="20260611000000 +0800">
+		<title lang="zh">我爱女篮-25/26赛季季后赛 1/4决赛G1 四川蜀道远达-上海浦发银行</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -60255,6 +60282,12 @@
 	<programme channel="newtv超级综艺" start="20260611175000 +0800" stop="20260611190700 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260611190700 +0800" stop="20260611202400 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260611202400 +0800" stop="20260611225000 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60315,6 +60348,12 @@
 	<programme channel="newtv超级体育" start="20260611183000 +0800" stop="20260611200000 +0800">
 		<title lang="zh">足球之夜</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260611200000 +0800" stop="20260611220000 +0800">
+		<title lang="zh">2026年美加墨世界杯报道-豪门盛宴-1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260611220000 +0800" stop="20260611230500 +0800">
+		<title lang="zh">2026年美加墨世界杯报道-如约而至-1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60353,6 +60392,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260611171200 +0800" stop="20260611190000 +0800">
 		<title lang="zh">破里拳</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260611190000 +0800" stop="20260611204600 +0800">
+		<title lang="zh">非法制裁</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260611204600 +0800" stop="20260611224900 +0800">
+		<title lang="zh">反抗军</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60434,6 +60479,21 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260611182700 +0800" stop="20260611190800 +0800">
 		<title lang="zh">16_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260611190800 +0800" stop="20260611195000 +0800">
+		<title lang="zh">17_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260611195000 +0800" stop="20260611203100 +0800">
+		<title lang="zh">18_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260611203100 +0800" stop="20260611211300 +0800">
+		<title lang="zh">19_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260611211300 +0800" stop="20260611215800 +0800">
+		<title lang="zh">24_玫瑰丛生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260611215800 +0800" stop="20260611224400 +0800">
+		<title lang="zh">25_玫瑰丛生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61070,6 +61130,24 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260611183200 +0800" stop="20260611191600 +0800">
 		<title lang="zh">21_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260611191600 +0800" stop="20260611195900 +0800">
+		<title lang="zh">22_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260611195900 +0800" stop="20260611203000 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260611203000 +0800" stop="20260611211300 +0800">
+		<title lang="zh">23_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260611211300 +0800" stop="20260611214300 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260611214300 +0800" stop="20260611222600 +0800">
+		<title lang="zh">24_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260611222600 +0800" stop="20260611225600 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
